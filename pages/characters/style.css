@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../../../assets/background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+    color: white;
+    overflow: hidden; /* Evita que la pantalla se haga más grande al llenarse de elementos */
+}
+
+.box{
+    background-color: rgba(0, 0, 0, 30%);
+    backdrop-filter: blur(10px); /* Aplica un desenfoque de 5px a la imagen */
+    position: absolute;
+    border-radius: 15px;
+    padding: 80px;
+    margin: 0 300px;
+}
+
+h1{
+    font-size: 70px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.description{
+    font-size: 35px;
+    margin: 0 0 1cqw 0;
+    padding: 0 350px 0 0;
+}
+
+.character_img{
+    width: 900px;
+    position: relative;
+    left: 800px;
+    top: 140px;
+}
+
+.item{
+ width: 150px;
+ margin: 10px;
+}
