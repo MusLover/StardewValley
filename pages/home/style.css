@@ -1,6 +1,6 @@
 body{
     color: aliceblue;
-    background-color: yellow;
+    background-image:url(../../assets/Pelican_Town\ 1.png) ;
     margin-left: 100px; 
     margin-right: 100px;
    
@@ -20,5 +20,10 @@ img{
 }
 
 h3{
-    border-bottom: 10px chocolate;
+    border-bottom: 1px solid chocolate;
+}
+
+div{
+    background-color: rgba(0, 0, 0, 0.692);
+    padding: 60px;
 }
