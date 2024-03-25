@@ -1,3 +1,24 @@
 body{
-    background-attachment: fixed;
+    color: aliceblue;
+    background-image:url(../../assets/Pelican_Town\ 1.png) ;
+    margin-left: 100px; 
+    margin-right: 100px;
+   
+}
+img{
+    display: block;
+    margin: auto;
+    width: 250px;
+    height: 260px;
+    margin-bottom: 50px;
+}
+
+.titulo{
+    width: 500px;
+    height:280px;
+    
+}
+
+h3{
+    border-bottom: 1px solid chocolate;
 }
