@@ -22,3 +22,8 @@ img{
 h3{
     border-bottom: 1px solid chocolate;
 }
+
+div{
+    background-color: rgba(0, 0, 0, 0.692);
+    padding: 60px;
+}
