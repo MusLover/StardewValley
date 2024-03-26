@@ -27,3 +27,7 @@ div{
     background-color: rgba(0, 0, 0, 0.692);
     padding: 60px;
 }
+
+.characters:hover {
+    transform: translateY(-5px);
+}
